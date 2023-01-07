@@ -1,0 +1,21 @@
+h1{
+    color: rgb(242, 240, 240);
+    font-size: 150px;
+    font-family: Impact;
+    text-align: center;
+    margin: 0%;
+}
+.backgroundimage{
+background-image: url(https://images.unsplash.com/photo-1638184984605-af1f05249a56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80);
+margin: 0%;
+}
+
+a{
+    padding: 15px;
+    background-color: rgb(62, 62, 240);
+    border-radius: 20%; 
+    font-size: 70px;
+    color: aliceblue;
+    font-family: Arial Narrow Bold;
+    margin-top: 15px;
+}
